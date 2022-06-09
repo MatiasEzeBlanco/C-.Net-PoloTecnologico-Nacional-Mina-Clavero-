@@ -1,0 +1,15 @@
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\bin\Debug\net6.0\Clase6--While and Do While.exe
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\bin\Debug\net6.0\Clase6--While and Do While.deps.json
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\bin\Debug\net6.0\Clase6--While and Do While.runtimeconfig.json
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\bin\Debug\net6.0\Clase6--While and Do While.dll
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\bin\Debug\net6.0\Clase6--While and Do While.pdb
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.csproj.AssemblyReference.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.AssemblyInfoInputs.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.AssemblyInfo.cs
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.csproj.CoreCompileInputs.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.dll
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\refint\Clase6--While and Do While.dll
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.pdb
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\Clase6--While and Do While.genruntimeconfig.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase6--While and Do While\Clase6--While and Do While\Clase6--While and Do While\obj\Debug\net6.0\ref\Clase6--While and Do While.dll

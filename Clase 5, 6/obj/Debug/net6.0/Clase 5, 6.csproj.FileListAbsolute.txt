@@ -1,0 +1,5 @@
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase 5, 6\obj\Debug\net6.0\Clase 5, 6.csproj.AssemblyReference.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase 5, 6\obj\Debug\net6.0\Clase 5, 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase 5, 6\obj\Debug\net6.0\Clase 5, 6.AssemblyInfoInputs.cache
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase 5, 6\obj\Debug\net6.0\Clase 5, 6.AssemblyInfo.cs
+C:\Users\dmz03\source\repos\Clase 5, 6\Clase 5, 6\obj\Debug\net6.0\Clase 5, 6.csproj.CoreCompileInputs.cache
